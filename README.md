@@ -2,6 +2,9 @@
 
 Fictional tea shop website.
 
+Link:
+https://nori-marcos.github.io/tea-cozy.github.io/
+
 ## Description and motivation
 
 The realization of this project was motivated by a challenge proposed by Codecademy, which was to create a fictional tea shop website.
